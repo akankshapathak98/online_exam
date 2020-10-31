@@ -1,0 +1,11 @@
+div#logo {
+    color: white;
+}
+
+span#category_heading {
+    color: red;
+}
+
+input.form-control.file {
+    padding-bottom: 34px;
+}
